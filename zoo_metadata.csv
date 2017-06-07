@@ -21,3 +21,4 @@ reptile,class,Reptile,<http://dbpedia.org/resource/Reptile>
 insect,class,Insect,<http://dbpedia.org/resource/Insect>
 amphibian,class,Amphibian,<http://dbpedia.org/resource/Amphibian>
 fish,class,Fish,<http://dbpedia.org/resource/Fish>
+invertebrate,class,Invertebrate,<http://dbpedia.org/resource/Invertebrate>
